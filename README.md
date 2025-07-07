@@ -5,7 +5,7 @@
 
 ### 📍 About Me
 
-- 🎓 Bachelor of Science in Computer Science – Sargodha University Bhakkar (2025)
+- 🎓 Bachelor of Science in Computer Science – University of Sargodha (2025)
 - 👨‍💻 1+ Year Experience as an Android Developer (Bism Software House & Freelance)
 - 📱 Skilled in building user-friendly apps with modern Android tools and architecture
 - 🔥 Currently learning Flutter for cross-platform development
