@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Ali</h1>
-<h3 align="center">Android Developer | Kotlin & Java Expert | Learning Flutter 🚀</h3>
+<h3 align="center">Android Developer |Flutter 🚀 | Kotlin  </h3>
 
 ---
 
